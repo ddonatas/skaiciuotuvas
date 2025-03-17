@@ -1,6 +1,6 @@
 <?php
-//kodas naudoja GET buda
-	$a=$_GET["a"];
+//kodas naudoja GET buda /method used GET method
+	$a=$_GET["a"]; 
 	$b=$_GET["b"];
 	$oo=$_GET["pasirinkimas"];
 
